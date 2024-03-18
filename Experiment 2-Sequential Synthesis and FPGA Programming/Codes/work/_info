@@ -1,0 +1,180 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\DLD lab 7\Desktop
+vcnt2bit
+Z1 ITLVG>@71[8amgj8JU?OAR1
+Z2 V_F`ZGa3`?fB?;[7ecl2X33
+Z3 dC:\Users\DLD lab 7\Desktop\LAB 2
+Z4 w1697147438
+Z5 8C:/Users/DLD lab 7/Desktop/LAB 2/cnt1bit.v
+Z6 FC:/Users/DLD lab 7/Desktop/LAB 2/cnt1bit.v
+L0 1
+Z7 OV;L;10.1b;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 mSIm7N7::>@[`oiXKjoLP2
+Z10 !s108 1697149841.049000
+Z11 !s107 C:/Users/DLD lab 7/Desktop/LAB 2/cnt1bit.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB 2/cnt1bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontroller
+Z13 !s100 mF=3AWBJk;1iC0GoFMh^E1
+Z14 IlOY6J`mK7B[^79[m85F5D3
+Z15 VPLPeYFSPCR_[n0eNNSf?L0
+R3
+Z16 w1697149205
+Z17 8C:/Users/DLD lab 7/Desktop/LAB 2/controller.v
+Z18 FC:/Users/DLD lab 7/Desktop/LAB 2/controller.v
+L0 1
+R7
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB 2/controller.v|
+R8
+Z20 !s108 1697149841.267000
+Z21 !s107 C:/Users/DLD lab 7/Desktop/LAB 2/controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDcnt
+Z22 IQj5Rn4[_oYJBmlaGQi1i?3
+Z23 Vk5XXSWjzjf>4kI3W?`dTS3
+R3
+Z24 w1697150027
+Z25 8C:/Users/DLD lab 7/Desktop/LAB 2/Dcnt.v
+Z26 FC:/Users/DLD lab 7/Desktop/LAB 2/Dcnt.v
+L0 1
+R7
+r1
+31
+Z27 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB 2/Dcnt.v|
+R8
+Z28 n@dcnt
+Z29 !s100 8WaN0]BVKDOdDdW2>Ah?U3
+Z30 !s108 1697150031.759000
+Z31 !s107 C:/Users/DLD lab 7/Desktop/LAB 2/Dcnt.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDmux
+!i10b 1
+!s100 llKI7D5akkF@c?e4za3m11
+I8c=Dhe^TbnlYZ0l6H4<WO2
+Vhfd^19SM=3fC>BZ[m^ik@0
+R3
+w1697150982
+8C:/Users/DLD lab 7/Desktop/LAB 2/Dmux.v
+FC:/Users/DLD lab 7/Desktop/LAB 2/Dmux.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1697150982.861000
+!s107 C:/Users/DLD lab 7/Desktop/LAB 2/Dmux.v|
+!s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB 2/Dmux.v|
+!s101 -O0
+R8
+n@dmux
+vonePulser
+Z32 !s100 dc0RJ<G;d9bg<^IOmz^mF2
+Z33 IBVj4bZW?h?5z03=jXG_>T0
+Z34 VCJb=<]PSjBV5cHabPRMHg2
+R3
+Z35 w1697142936
+Z36 8C:/Users/DLD lab 7/Desktop/LAB 2/onePulser.v
+Z37 FC:/Users/DLD lab 7/Desktop/LAB 2/onePulser.v
+L0 1
+R7
+r1
+31
+Z38 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB 2/onePulser.v|
+R8
+Z39 none@pulser
+Z40 !s108 1697149840.300000
+Z41 !s107 C:/Users/DLD lab 7/Desktop/LAB 2/onePulser.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vshr2bit
+Z42 !s100 ;MD5e:zR]WmA3Z=bQ2m^z3
+Z43 I=jX:QT=jbe;Kh>7KcbGz]1
+Z44 Vjk2i48^0Z9[Y9F4OVgQoF0
+R3
+Z45 w1697145863
+Z46 8C:/Users/DLD lab 7/Desktop/LAB 2/shr2bit.v
+Z47 FC:/Users/DLD lab 7/Desktop/LAB 2/shr2bit.v
+L0 1
+R7
+r1
+31
+Z48 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB 2/shr2bit.v|
+R8
+Z49 !s108 1697149840.565000
+Z50 !s107 C:/Users/DLD lab 7/Desktop/LAB 2/shr2bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vshr4bit
+Z51 !s100 =cVQ8X76U07CNdR@kbikJ0
+Z52 I?2zoDY6?a6ffCV6`ISij^3
+Z53 VUfT6Yzm^KgYSFjT2?7FOB1
+R3
+Z54 w1697145858
+Z55 8C:/Users/DLD lab 7/Desktop/LAB 2/shr4bit.v
+Z56 FC:/Users/DLD lab 7/Desktop/LAB 2/shr4bit.v
+L0 1
+R7
+r1
+31
+Z57 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB 2/shr4bit.v|
+R8
+Z58 !s108 1697149840.752000
+Z59 !s107 C:/Users/DLD lab 7/Desktop/LAB 2/shr4bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSSD
+Z60 I:>eN7df]LADeW=R8<`X`K0
+Z61 VCiIGFH8ePSh8V4gnXY3Rj2
+R3
+Z62 w1697150470
+Z63 8C:/Users/DLD lab 7/Desktop/LAB 2/SSD.v
+Z64 FC:/Users/DLD lab 7/Desktop/LAB 2/SSD.v
+L0 1
+R7
+r1
+31
+R8
+Z65 n@s@s@d
+!i10b 1
+Z66 !s100 RDc[8HEMiHm0:B1in=b[E2
+!s85 0
+Z67 !s108 1697150488.246000
+Z68 !s107 C:/Users/DLD lab 7/Desktop/LAB 2/SSD.v|
+Z69 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB 2/SSD.v|
+!s101 -O0
+vtestbench
+Z70 !s100 O2jiM34Q0eE7mJ9Xh03=Y2
+Z71 I=hO>kgK64;9FFFZTi4=7k0
+Z72 VhGfW:390DM[oDMzegDH9`2
+R3
+Z73 w1697143386
+Z74 8C:/Users/DLD lab 7/Desktop/LAB 2/testbench.v
+Z75 FC:/Users/DLD lab 7/Desktop/LAB 2/testbench.v
+L0 1
+R7
+r1
+31
+Z76 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB 2/testbench.v|
+R8
+Z77 !s108 1697149840.409000
+Z78 !s107 C:/Users/DLD lab 7/Desktop/LAB 2/testbench.v|
+!i10b 1
+!s85 0
+!s101 -O0

@@ -1,0 +1,14 @@
+module ROM(adr,read);
+  input [5:0] adr;
+  output [7:0] read;
+  reg [7:0] datastore[0:63];
+  initial begin
+    $readmemb("sine.mem",datastore);
+  end
+  reg [7:0] readval;
+  always@(adr)
+  begin
+    readval = datastore[adr];
+  end
+  assign read = readval;
+endmodule

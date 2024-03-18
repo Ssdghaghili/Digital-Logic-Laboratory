@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Nov 22 18:08:49 2023
+Quartus II 32-bit Version : 12.1 Build 177 11/07/2012 SJ Web Edition
+Revision Name : exponential
+Top-level Entity Name : exponential
+Family : Cyclone II
+Total logic elements : 102
+    Total combinational functions : 100
+    Dedicated logic registers : 60
+Total registers : 60
+Total pins : 38
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 2
+Total PLLs : 0

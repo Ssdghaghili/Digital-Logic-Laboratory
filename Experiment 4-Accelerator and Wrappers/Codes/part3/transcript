@@ -1,0 +1,376 @@
+# Reading C:/altera/12.1/modelsim_ase/tcl/vsim/pref.tcl 
+# Loading project 4
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# 10 compiles, 0 failed with no errors. 
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Load canceled
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of testbench.v was successful.
+# 11 compiles, 0 failed with no errors. 
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Loading work.testbench
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+add wave -position insertpoint  \
+sim:/testbench/clk \
+sim:/testbench/rst \
+sim:/testbench/engStart \
+sim:/testbench/engX \
+sim:/testbench/frac \
+sim:/testbench/engDone \
+sim:/testbench/intt
+run -all
+# Break in Module testbench at C:/Users/DLD lab 7/Desktop/New folder/testbench.v line 31
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of testbench.v was successful.
+# 11 compiles, 0 failed with no errors. 
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of testbench.v was successful.
+# 11 compiles, 0 failed with no errors. 
+# Load canceled
+restart -f
+# Loading work.testbench
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+run -all
+# Break in Module testbench at C:/Users/DLD lab 7/Desktop/New folder/testbench.v line 31
+# Compile of Wcontroller.v was successful.
+# Compile of shr16bit.v was successful.
+# Compile of onePulser.v was successful.
+# Compile of reg.v failed with 1 errors.
+# Compile of reg.v was successful.
+# Compile of reg.v was successful.
+# Compile of combsh.v failed with 1 errors.
+# Compile of combsh.v failed with 1 errors.
+# Compile of combsh.v failed with 1 errors.
+# Compile of combsh.v was successful.
+# Compile of cnt2bit.v failed with 1 errors.
+# Compile of cnt2bit.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of testbench.v was successful.
+# Compile of Wcontroller.v was successful.
+# Compile of onePulser.v was successful.
+# Compile of shr16bit.v was successful.
+# Compile of reg.v was successful.
+# Compile of combsh.v was successful.
+# Compile of cnt2bit.v was successful.
+# Compile of Mdatapath.v was successful.
+# 18 compiles, 0 failed with no errors. 
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of testbench.v was successful.
+# Compile of Wcontroller.v was successful.
+# Compile of onePulser.v was successful.
+# Compile of shr16bit.v was successful.
+# Compile of reg.v was successful.
+# Compile of combsh.v was successful.
+# Compile of cnt2bit.v was successful.
+# Compile of Mdatapath.v was successful.
+# 18 compiles, 0 failed with no errors. 
+restart -f
+# Loading work.testbench
+# Loading work.Mdatapath
+# Loading work.cnt2bit
+# Loading work.Wcontroller
+# Loading work.shr16bit
+# Loading work.ui_reg
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+# Loading work.combsh
+# Loading work.onePulser
+# ** Warning: (vsim-3015) C:/Users/DLD lab 7/Desktop/New folder/testbench.v(15): [PCDPC] - Port size (21 or 21) does not match connection size (1) for port 'wr_data'. The port definition is at: C:/Users/DLD lab 7/Desktop/New folder/Mdatapath.v(1).
+# 
+#         Region: /testbench/UT3
+# Warning in wave window restart: (vish-4014) No objects found matching '/testbench/engStart'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/testbench/engX'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/testbench/frac'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/testbench/engDone'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/testbench/intt'. 
+quit -sim
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Loading work.testbench
+# Loading work.Mdatapath
+# Loading work.cnt2bit
+# Loading work.Wcontroller
+# Loading work.shr16bit
+# Loading work.ui_reg
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+# Loading work.combsh
+# Loading work.onePulser
+# ** Warning: (vsim-3015) C:/Users/DLD lab 7/Desktop/New folder/testbench.v(15): [PCDPC] - Port size (21 or 21) does not match connection size (1) for port 'wr_data'. The port definition is at: C:/Users/DLD lab 7/Desktop/New folder/Mdatapath.v(1).
+# 
+#         Region: /testbench/UT3
+add wave -position insertpoint  \
+sim:/testbench/clk \
+sim:/testbench/rst \
+sim:/testbench/wStart \
+sim:/testbench/vi \
+sim:/testbench/ui \
+sim:/testbench/clkPB \
+sim:/testbench/rd_req \
+sim:/testbench/wr_req \
+sim:/testbench/we_data \
+sim:/testbench/wDone \
+sim:/testbench/wr_data
+run -all
+# Break in Module testbench at C:/Users/DLD lab 7/Desktop/New folder/testbench.v line 35
+add wave -position insertpoint sim:/testbench/UT3/controller/*
+restart -f
+# ** Warning: (vsim-3015) C:/Users/DLD lab 7/Desktop/New folder/testbench.v(15): [PCDPC] - Port size (21 or 21) does not match connection size (1) for port 'wr_data'. The port definition is at: C:/Users/DLD lab 7/Desktop/New folder/Mdatapath.v(1).
+# 
+#         Region: /testbench/UT3
+run -all
+# Break in Module testbench at C:/Users/DLD lab 7/Desktop/New folder/testbench.v line 35
+# Compile of testbench.v was successful.
+restart -f
+# Loading work.testbench
+# Warning in wave window restart: (vish-4014) No objects found matching '/testbench/we_data'. 
+quit -sim
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Loading work.testbench
+# Loading work.Mdatapath
+# Loading work.cnt2bit
+# Loading work.Wcontroller
+# Loading work.shr16bit
+# Loading work.ui_reg
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+# Loading work.combsh
+# Loading work.onePulser
+add wave -position insertpoint  \
+sim:/testbench/clk \
+sim:/testbench/rst \
+sim:/testbench/wStart \
+sim:/testbench/vi \
+sim:/testbench/ui \
+sim:/testbench/clkPB \
+sim:/testbench/rd_req \
+sim:/testbench/wr_req \
+sim:/testbench/wr_data \
+sim:/testbench/wDone
+run -all
+# Break in Module testbench at C:/Users/DLD lab 7/Desktop/New folder/testbench.v line 35
+restart -f
+add wave -position insertpoint sim:/testbench/UT3/controller/*
+run -all
+# Break in Module testbench at C:/Users/DLD lab 7/Desktop/New folder/testbench.v line 35
+add wave -position insertpoint sim:/testbench/UT3/counter/*
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of testbench.v was successful.
+# Compile of Wcontroller.v was successful.
+# Compile of onePulser.v was successful.
+# Compile of shr16bit.v was successful.
+# Compile of reg.v was successful.
+# Compile of combsh.v was successful.
+# Compile of cnt2bit.v was successful.
+# Compile of Mdatapath.v was successful.
+# 18 compiles, 0 failed with no errors. 
+restart -f
+# Loading work.testbench
+# Loading work.Mdatapath
+# Loading work.cnt2bit
+# Loading work.Wcontroller
+# Loading work.shr16bit
+# Loading work.ui_reg
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+# Loading work.combsh
+# Loading work.onePulser
+run -all
+# Break in Module testbench at C:/Users/DLD lab 7/Desktop/New folder/testbench.v line 35
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of testbench.v was successful.
+# Compile of Wcontroller.v was successful.
+# Compile of onePulser.v was successful.
+# Compile of shr16bit.v was successful.
+# Compile of reg.v was successful.
+# Compile of combsh.v was successful.
+# Compile of cnt2bit.v was successful.
+# Compile of Mdatapath.v was successful.
+# 18 compiles, 0 failed with no errors. 
+restart -f
+# Loading work.testbench
+# Loading work.Mdatapath
+# Loading work.cnt2bit
+# Loading work.Wcontroller
+# Loading work.shr16bit
+# Loading work.ui_reg
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+# Loading work.combsh
+# Loading work.onePulser
+run -all
+# Break in Module testbench at C:/Users/DLD lab 7/Desktop/New folder/testbench.v line 35
+# Compile of testbench.v was successful.
+restart -f
+# Loading work.testbench
+run -all
+# Break in Module testbench at C:/Users/DLD lab 7/Desktop/New folder/testbench.v line 35
+# Compile of Wcontroller.v was successful.
+restart -f
+# Loading work.Wcontroller
+run -all
+# Break in Module testbench at C:/Users/DLD lab 7/Desktop/New folder/testbench.v line 35
+# Compile of testbench.v was successful.
+restart -f
+# Loading work.testbench
+run -all
+# Break in Module testbench at C:/Users/DLD lab 7/Desktop/New folder/testbench.v line 35
+# Compile of Wcontroller.v was successful with warnings.
+# Load canceled
+restart -f
+# Loading work.Wcontroller
+run -all
+# Break in Module testbench at C:/Users/DLD lab 7/Desktop/New folder/testbench.v line 35
+# Compile of Wcontroller.v was successful.
+restart -f
+# Loading work.Wcontroller
+run -all
+# Break in Module testbench at C:/Users/DLD lab 7/Desktop/New folder/testbench.v line 35
+add wave -position insertpoint  \
+sim:/testbench/UT3/EXP/x \
+sim:/testbench/UT3/EXP/intpart \
+sim:/testbench/UT3/EXP/fracpart
+restart
+run
+run
+run
+run
+run
+run -all
+# Break in Module testbench at C:/Users/DLD lab 7/Desktop/New folder/testbench.v line 35
+# Compile of testbench.v was successful.
+restart -f
+# Loading work.testbench
+run -all
+# Break in Module testbench at C:/Users/DLD lab 7/Desktop/New folder/testbench.v line 35

@@ -1,0 +1,24 @@
+module Mdatapath(clk,rst,wStart,ui,vi,clkPB,rd_req,wr_req,wr_data,wDone);
+  input wStart,clkPB,clk,rst;
+  input [1:0] ui;
+  input [15:0] vi;
+  output rd_req,wr_req,wDone;
+  output [20:0] wr_data;
+  
+  wire co;
+  wire cnt;
+  wire engDone,ldX,ldU,shL,wr,wDone,engStart;
+  wire [15:0] engX;
+  wire [1:0] ui_out;
+  wire [15:0] frac;
+  wire [1:0] intt;
+  
+  cnt2bit counter(cnt,clk,rst,co);
+  Wcontroller controller(clk,rst,co,engDone,wStart,ldX,ldU,shL,wr_req,wDone,cnt,engStart);
+  shr16bit shift_reg(vi,shL,clk,rst,ldX,engX);
+  ui_reg register(clk,rst,ui,ldU,ui_out);
+  exponential EXP(clk,rst,engStart,engX,engDone,intt,frac);
+  combsh COM(frac,intt,ui_out,wr_data);
+  onePulser one(clkPB,clk,rst,rd_req)
+  
+endmodule

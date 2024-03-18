@@ -1,0 +1,19 @@
+module cnt2bit(cnt,clk,rst,clkEn,co);
+  input cnt,clk,rst,clkEn;
+  output co;
+  reg [1:0] count;
+  always@(posedge clkEn, posedge rst)
+  begin
+    if(rst)
+      count <= 2'b0;
+      co = 1'b0;
+    else if (cnt)
+      if(count == 2'b11)
+        count <= 2'b0;
+      else
+        count <= count +1;
+  end
+  assign co = (count == 2'b11 && cnt)? 1'b1 : 1'b0; 
+endmodule
+      
+  

@@ -1,0 +1,26 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\DLD lab 7\Desktop\New folder (2)\simulation\modelsim
+vWcontroller
+!i10b 1
+!s100 iXHok25QQ1Q7o:gHI;TD00
+Igd=OgiJ0m0je`@SVJTX`<3
+V2SZnIC=`4HCK;D^4cST>02
+Z1 dC:\Users\DLD lab 7\Desktop\New folder (2)\simulation\modelsim
+w1701247323
+8C:/Users/DLD lab 7/Desktop/New folder/Wcontroller.v
+FC:/Users/DLD lab 7/Desktop/New folder/Wcontroller.v
+L0 1
+OV;L;10.1b;51
+r1
+!s85 0
+31
+!s108 1701249049.862000
+!s107 C:/Users/DLD lab 7/Desktop/New folder/Wcontroller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/DLD lab 7/Desktop/New folder|C:/Users/DLD lab 7/Desktop/New folder/Wcontroller.v|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work {+incdir+C:/Users/DLD lab 7/Desktop/New folder} -O0
+n@wcontroller

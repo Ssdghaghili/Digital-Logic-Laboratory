@@ -1,0 +1,85 @@
+{C:/Users/DLD lab 7/Desktop/LAB3/pwm.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB3/pwm.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module PWM
+
+Top level modules:
+	PWM
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB3/mux82.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB3/mux82.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module mux82
+
+Top level modules:
+	mux82
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB3/sinwave.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB3/sinwave.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module sinwave
+
+Top level modules:
+	sinwave
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB3/waveform.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB3/waveform.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module waveform
+
+Top level modules:
+	waveform
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB3/couter6.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB3/couter6.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module counter6
+
+Top level modules:
+	counter6
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB3/controller.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB3/controller.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB3/testbench.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB3/testbench.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB3/counter8.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB3/counter8.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module counter8
+
+Top level modules:
+	counter8
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB3/mux6.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB3/mux6.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module mux6
+
+Top level modules:
+	mux6
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB3/counter9.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB3/counter9.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module counter9
+
+Top level modules:
+	counter9
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB3/mux8.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB3/mux8.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module mux8
+
+Top level modules:
+	mux8
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB3/DDS.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB3/DDS.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module DDS
+
+Top level modules:
+	DDS
+
+} {} {}}

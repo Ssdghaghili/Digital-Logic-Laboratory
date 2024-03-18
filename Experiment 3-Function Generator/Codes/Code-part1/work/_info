@@ -1,0 +1,274 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\DLD lab 7\Desktop\Lab3
+vamp
+Z1 I6AfRLNmeh4nc`PL<J1@9X1
+Z2 VSLJNWTHA`oWg`JKRM5][50
+Z3 dC:\Users\DLD lab 7\Desktop\LAB3
+Z4 w1700079786
+Z5 8C:/Users/DLD lab 7/Desktop/LAB3/amp.v
+Z6 FC:/Users/DLD lab 7/Desktop/LAB3/amp.v
+L0 1
+Z7 OV;L;10.1b;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB3/amp.v|
+Z9 o-work work -O0
+Z10 !s100 m@8_KOcZ3^U>[^gi=;YG_1
+Z11 !s108 1700079788.263000
+Z12 !s107 C:/Users/DLD lab 7/Desktop/LAB3/amp.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontroller
+Z13 !s100 D1SQN=Zie<<Cf<^U=mkM60
+Z14 IH?@A8b3ORK0A1Nen_Pa8:1
+Z15 VD5D27I8Z5XZVXaBh:Uoj93
+R3
+Z16 w1699506990
+Z17 8C:/Users/DLD lab 7/Desktop/LAB3/controller.v
+Z18 FC:/Users/DLD lab 7/Desktop/LAB3/controller.v
+L0 1
+R7
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB3/controller.v|
+R9
+Z20 !s108 1700079757.874000
+Z21 !s107 C:/Users/DLD lab 7/Desktop/LAB3/controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcounter6
+Z22 !s100 cMmaN4FeQZAJEL2d_>0`O1
+Z23 Izd0E36A93MS>Q02Q`29;F3
+Z24 V<?`5BCEU?joTdSVIlJ7bT3
+R3
+Z25 w1701693362
+Z26 8C:/Users/DLD lab 7/Desktop/LAB3/couter6.v
+Z27 FC:/Users/DLD lab 7/Desktop/LAB3/couter6.v
+L0 1
+R7
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB3/couter6.v|
+R9
+Z29 !s108 1700079758.201000
+Z30 !s107 C:/Users/DLD lab 7/Desktop/LAB3/couter6.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcounter8
+Z31 !s100 :I[Qe]<0P^2fRlCl?5W^02
+Z32 IUFm4516IZbTU1C^3XnQ5a2
+Z33 V=4b55aFDm`3C<bJeA6g>13
+R3
+R25
+Z34 8C:/Users/DLD lab 7/Desktop/LAB3/counter8.v
+Z35 FC:/Users/DLD lab 7/Desktop/LAB3/counter8.v
+L0 1
+R7
+r1
+31
+Z36 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB3/counter8.v|
+R9
+Z37 !s108 1700079757.983000
+Z38 !s107 C:/Users/DLD lab 7/Desktop/LAB3/counter8.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcounter9
+!i10b 1
+!s100 08gn`ANPRm`IUSb]=4]@;1
+IeRGc=5g=jkRb^Uj<5TV`i1
+Z39 VMDl@U5:A9K@A3SHRKO[6a3
+R3
+w1700084749
+Z40 8C:/Users/DLD lab 7/Desktop/LAB3/counter9.v
+Z41 FC:/Users/DLD lab 7/Desktop/LAB3/counter9.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1700084752.024000
+!s107 C:/Users/DLD lab 7/Desktop/LAB3/counter9.v|
+Z42 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB3/counter9.v|
+!s101 -O0
+R9
+vDDS
+Z43 !s100 j^QC4hlG[hMjmQa=52hC70
+Z44 I`2O6jUSAMWPMZJdG<^EPO2
+Z45 VgH`mI>XTm^610I[]dGnTb2
+R3
+Z46 w1700078182
+Z47 8C:/Users/DLD lab 7/Desktop/LAB3/DDS.v
+Z48 FC:/Users/DLD lab 7/Desktop/LAB3/DDS.v
+L0 1
+R7
+r1
+31
+Z49 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB3/DDS.v|
+R9
+Z50 n@d@d@s
+Z51 !s108 1700079758.295000
+Z52 !s107 C:/Users/DLD lab 7/Desktop/LAB3/DDS.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux6
+Z53 !s100 OWeoZjGPT4h^`H05Vnz?@1
+Z54 Ifa6a_4[ST0N:YkP]^1ezX3
+Z55 Vm0g1W@eSPbl8>nOa:9Ldc2
+R3
+R25
+Z56 8C:/Users/DLD lab 7/Desktop/LAB3/mux6.v
+Z57 FC:/Users/DLD lab 7/Desktop/LAB3/mux6.v
+L0 1
+R7
+r1
+31
+Z58 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB3/mux6.v|
+R9
+Z59 !s108 1700079758.404000
+Z60 !s107 C:/Users/DLD lab 7/Desktop/LAB3/mux6.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux8
+Z61 !s100 O235@IB2;oW@2TefVm:K`1
+Z62 I[DTWB?oGnmiSaZ8:gA6gN1
+Z63 V<KH6A=YYl<7T0=b?LC[QA3
+R3
+Z64 w1699507488
+Z65 8C:/Users/DLD lab 7/Desktop/LAB3/mux8.v
+Z66 FC:/Users/DLD lab 7/Desktop/LAB3/mux8.v
+L0 1
+R7
+r1
+31
+Z67 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB3/mux8.v|
+R9
+Z68 !s108 1700079758.529000
+Z69 !s107 C:/Users/DLD lab 7/Desktop/LAB3/mux8.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux82
+Z70 !s100 DR683OG1n;6MRIcEdOh_b0
+Z71 I76=nUYPUiEd?RK]5]lXYc2
+Z72 Vz>0N;mX324[HoADgoliX]3
+R3
+Z73 w1700077738
+Z74 8C:/Users/DLD lab 7/Desktop/LAB3/mux82.v
+Z75 FC:/Users/DLD lab 7/Desktop/LAB3/mux82.v
+L0 1
+R7
+r1
+31
+Z76 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB3/mux82.v|
+R9
+Z77 !s108 1700079759.481000
+Z78 !s107 C:/Users/DLD lab 7/Desktop/LAB3/mux82.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPWM
+Z79 I=<8][ocR:>k7i90f]BV?50
+Z80 V`ALibXlQSXFlc8^be^aPI1
+R3
+Z81 w1700081709
+Z82 8C:/Users/DLD lab 7/Desktop/LAB3/pwm.v
+Z83 FC:/Users/DLD lab 7/Desktop/LAB3/pwm.v
+L0 1
+R7
+r1
+31
+Z84 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB3/pwm.v|
+R9
+Z85 n@p@w@m
+Z86 !s100 YbCcK3?zWGlej:`M7<@^o3
+Z87 !s108 1700084601.234000
+Z88 !s107 C:/Users/DLD lab 7/Desktop/LAB3/pwm.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vROM
+Z89 !s100 RjANNlR]QVN1aM<[A2>d>2
+Z90 IGK;OknI4@;LUeeIlZ1naI0
+Z91 VU_@35E?=2i=mC`M3?PV<m2
+R3
+Z92 w1699505860
+Z93 8C:/Users/DLD lab 7/Desktop/LAB3/ROM.v
+Z94 FC:/Users/DLD lab 7/Desktop/LAB3/ROM.v
+L0 1
+R7
+r1
+31
+Z95 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB3/ROM.v|
+R9
+Z96 n@r@o@m
+Z97 !s108 1700079758.779000
+Z98 !s107 C:/Users/DLD lab 7/Desktop/LAB3/ROM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsinwave
+Z99 IdO`Hh;9LnETc<24b1mCOK1
+Z100 VDO0eMOz^]GJjg48_JW4IP2
+R3
+Z101 w1700079142
+Z102 8C:/Users/DLD lab 7/Desktop/LAB3/wave.v
+Z103 FC:/Users/DLD lab 7/Desktop/LAB3/wave.v
+L0 2
+R7
+r1
+31
+R9
+Z104 !s100 j1o5@TRIdQ5NjI?AZVW`01
+Z105 !s108 1700079759.777000
+Z106 !s107 C:/Users/DLD lab 7/Desktop/LAB3/wave.v|
+Z107 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB3/wave.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench
+Z108 !s100 cd23:ZQX1CMLEng7g87aY0
+Z109 If74`8dKP@0JONB4CHfQ3T3
+Z110 VhGfW:390DM[oDMzegDH9`2
+R3
+Z111 w1700078746
+Z112 8C:/Users/DLD lab 7/Desktop/LAB3/testbench.v
+Z113 FC:/Users/DLD lab 7/Desktop/LAB3/testbench.v
+L0 1
+R7
+r1
+31
+Z114 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB3/testbench.v|
+R9
+Z115 !s108 1700079758.950000
+Z116 !s107 C:/Users/DLD lab 7/Desktop/LAB3/testbench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vwaveform
+Z117 !s100 OM1W8A?PfVllOLYVDlGcI0
+Z118 ICX57e<dlZcifn4?hO2Dg;1
+Z119 V4_zAG@Q>dcMV:GkS0=73;3
+R3
+Z120 w1701693363
+Z121 8C:/Users/DLD lab 7/Desktop/LAB3/waveform.v
+Z122 FC:/Users/DLD lab 7/Desktop/LAB3/waveform.v
+L0 2
+R7
+r1
+31
+Z123 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/LAB3/waveform.v|
+R9
+Z124 !s108 1700079759.122000
+Z125 !s107 C:/Users/DLD lab 7/Desktop/LAB3/waveform.v|
+!i10b 1
+!s85 0
+!s101 -O0

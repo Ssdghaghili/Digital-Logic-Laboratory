@@ -1,0 +1,71 @@
+C:/LAB3/DDS.v {1 {vlog -work work C:/LAB3/DDS.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module DDS
+
+Top level modules:
+	DDS
+
+} {} {}} C:/LAB3/waveform.v {1 {vlog -work work C:/LAB3/waveform.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module waveform
+
+Top level modules:
+	waveform
+
+} {} {}} C:/LAB3/testbench.v {1 {vlog -work work C:/LAB3/testbench.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/LAB3/mux6.v {1 {vlog -work work C:/LAB3/mux6.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module mux6
+
+Top level modules:
+	mux6
+
+} {} {}} C:/LAB3/couter6.v {1 {vlog -work work C:/LAB3/couter6.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module counter6
+
+Top level modules:
+	counter6
+
+} {} {}} C:/LAB3/counter8.v {1 {vlog -work work C:/LAB3/counter8.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module counter8
+
+Top level modules:
+	counter8
+
+} {} {}} C:/LAB3/controller.v {1 {vlog -work work C:/LAB3/controller.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/LAB3/counter9.v {1 {vlog -work work C:/LAB3/counter9.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module counter9
+
+Top level modules:
+	counter9
+
+} {} {}} C:/LAB3/mux8.v {1 {vlog -work work C:/LAB3/mux8.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module mux8
+
+Top level modules:
+	mux8
+
+} {} {}} C:/LAB3/ROM.v {1 {vlog -work work C:/LAB3/ROM.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module ROM
+
+Top level modules:
+	ROM
+
+} {} {}}

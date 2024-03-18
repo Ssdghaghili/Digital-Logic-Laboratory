@@ -1,0 +1,17 @@
+module Dcnt(cnt,num,clk,rst,clkEn,ldcnt,co);
+  input cnt,clk,rst,ldcnt,clkEn;
+  input [3:0] num;
+  output co;
+  reg [3:0] count; 
+  always@(posedge clkEn, posedge rst)
+  begin
+      count = rst ? 4'b0:ldcnt?num:~cnt?count:count-1;
+  end
+  assign co = (count == 4'b0)? 1'b1 : 1'b0; 
+endmodule
+      
+  
+
+
+
+

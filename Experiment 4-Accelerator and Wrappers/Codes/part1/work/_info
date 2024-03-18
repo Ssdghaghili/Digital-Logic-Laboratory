@@ -1,0 +1,370 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\DLD lab 7\Desktop
+vadder
+Z1 !s100 AdM@d8_;Hda75nWYLlP4^2
+Z2 I]EG=MfYX<T0FG0]A;9DYe2
+Z3 V0LM1L3SQLO]nE0Ti;o<?o0
+Z4 dC:\Users\DLD lab 7\Desktop\New folder
+Z5 w1608026952
+Z6 8C:/Users/DLD lab 7/Desktop/New folder/adder.v
+Z7 FC:/Users/DLD lab 7/Desktop/New folder/adder.v
+L0 1
+Z8 OV;L;10.1b;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/New folder/adder.v|
+Z10 o-work work -O0
+Z11 !s108 1700668951.112000
+Z12 !s107 C:/Users/DLD lab 7/Desktop/New folder/adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcnt2bit
+Z13 !s100 D?1]U6MmaIOV<VZV21LnD0
+Z14 ISOVL<WE4KS=;211z8GzmM0
+Z15 VznQE[X3DX=1o`_F0IzCRB2
+R4
+Z16 w1700666781
+Z17 8C:/Users/DLD lab 7/Desktop/New folder/cnt2bit.v
+Z18 FC:/Users/DLD lab 7/Desktop/New folder/cnt2bit.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/New folder/cnt2bit.v|
+R10
+Z20 !s108 1700668956.837000
+Z21 !s107 C:/Users/DLD lab 7/Desktop/New folder/cnt2bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcombsh
+Z22 !s100 <:9>NQh?He2VMCA=dGHO[1
+Z23 I[hB1^J5Gk2ILTzJDF1TIA3
+Z24 V10N3Vzfo>1Z=E?C4_PWg73
+R4
+Z25 w1700666620
+Z26 8C:/Users/DLD lab 7/Desktop/New folder/combsh.v
+Z27 FC:/Users/DLD lab 7/Desktop/New folder/combsh.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/New folder/combsh.v|
+R10
+Z29 !s108 1700668952.812000
+Z30 !s107 C:/Users/DLD lab 7/Desktop/New folder/combsh.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontroller
+Z31 !s100 f0kRejIEXe>8Vf>>:BQE60
+Z32 I1O90X^BmW1]Z;M=^Zic`;1
+Z33 VE;4=AZM0JjhbV5AOckjYH2
+R4
+Z34 w1608191824
+Z35 8C:/Users/DLD lab 7/Desktop/New folder/Controller.v
+Z36 FC:/Users/DLD lab 7/Desktop/New folder/Controller.v
+L0 1
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/New folder/Controller.v|
+R10
+Z38 !s108 1700668951.299000
+Z39 !s107 C:/Users/DLD lab 7/Desktop/New folder/Controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcounter
+Z40 !s100 0896QhedRkJWOA?Oo914^3
+Z41 IU1Q6HlzBOb88FS^Hj0lAh0
+Z42 VD>ZHGBO`FLBilAOTHjL@63
+R4
+Z43 w1608028528
+Z44 8C:/Users/DLD lab 7/Desktop/New folder/Counter.v
+Z45 FC:/Users/DLD lab 7/Desktop/New folder/Counter.v
+L0 2
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/New folder/Counter.v|
+R10
+Z47 !s108 1700668951.486000
+Z48 !s107 C:/Users/DLD lab 7/Desktop/New folder/Counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath
+Z49 !s100 e9j1<lIQz]1>=_nPf3oUM0
+Z50 IUglc^hVQ1l6]k>ITIaYF61
+Z51 VNl4KO1j8IXWJPzz7ANnnP2
+R4
+Z52 w1608028844
+Z53 8C:/Users/DLD lab 7/Desktop/New folder/Datapath.v
+Z54 FC:/Users/DLD lab 7/Desktop/New folder/Datapath.v
+L0 1
+R8
+r1
+31
+Z55 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/New folder/Datapath.v|
+R10
+Z56 !s108 1700668949.583000
+Z57 !s107 C:/Users/DLD lab 7/Desktop/New folder/Datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vexponential
+Z58 !s100 9gfacAoW:5Q3loBXRoee?1
+Z59 I:4HNXQ?R:OPGG7;7<ZX^Y2
+Z60 V==8=M@z8E6URNKP0g4HFV1
+R4
+Z61 w1608026944
+Z62 8C:/Users/DLD lab 7/Desktop/New folder/exponential.v
+Z63 FC:/Users/DLD lab 7/Desktop/New folder/exponential.v
+L0 1
+R8
+r1
+31
+Z64 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/New folder/exponential.v|
+R10
+Z65 !s108 1700668949.770000
+Z66 !s107 C:/Users/DLD lab 7/Desktop/New folder/exponential.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vLUT
+Z67 !s100 Zo^gQnG5W[R4@If5m7UMk2
+Z68 I2_bAn=^3KMfn2mk@f`JC02
+Z69 Vh7kg2cEEBCi[=5oM4L;0S3
+R4
+Z70 w1608027008
+Z71 8C:/Users/DLD lab 7/Desktop/New folder/LUTExp.v
+Z72 FC:/Users/DLD lab 7/Desktop/New folder/LUTExp.v
+L0 1
+R8
+r1
+31
+Z73 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/New folder/LUTExp.v|
+R10
+Z74 n@l@u@t
+Z75 !s108 1700668949.988000
+Z76 !s107 C:/Users/DLD lab 7/Desktop/New folder/LUTExp.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMdatapath
+Z77 !s100 =Vkom^F5?9o182S7LGoWR1
+Z78 I]g538fNJ>AC_DMf^1?Rh@3
+Z79 VaJ;ZFe<>gz[0AYM9?coLh3
+R4
+Z80 w1700667721
+Z81 8C:/Users/DLD lab 7/Desktop/New folder/Mdatapath.v
+Z82 FC:/Users/DLD lab 7/Desktop/New folder/Mdatapath.v
+L0 1
+R8
+r1
+31
+Z83 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/New folder/Mdatapath.v|
+R10
+Z84 n@mdatapath
+Z85 !s108 1700668958.132000
+Z86 !s107 C:/Users/DLD lab 7/Desktop/New folder/Mdatapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmultiplier
+Z87 !s100 UWPkPTSiKKDGEiD^gdb:30
+Z88 InOA0Voh2WeXkkJD<a90o[3
+Z89 VH:6SEC``QL31]mIH0HHiV1
+R4
+Z90 w1608028248
+Z91 8C:/Users/DLD lab 7/Desktop/New folder/multiplier.v
+Z92 FC:/Users/DLD lab 7/Desktop/New folder/multiplier.v
+L0 2
+R8
+r1
+31
+Z93 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/New folder/multiplier.v|
+R10
+Z94 !s108 1700668950.176000
+Z95 !s107 C:/Users/DLD lab 7/Desktop/New folder/multiplier.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2to1
+Z96 !s100 bWSO:4@XTYWK5Yb]R6V_S2
+Z97 IhTIGzEI?EBhRVkDP0<jhV0
+Z98 V>M@I<QgBEE>P@>dOPjF]V3
+R4
+Z99 w1608028020
+Z100 8C:/Users/DLD lab 7/Desktop/New folder/mux2to1.v
+Z101 FC:/Users/DLD lab 7/Desktop/New folder/mux2to1.v
+L0 2
+R8
+r1
+31
+Z102 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/New folder/mux2to1.v|
+R10
+Z103 !s108 1700668950.363000
+Z104 !s107 C:/Users/DLD lab 7/Desktop/New folder/mux2to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vonePulser
+Z105 !s100 8BMg71k4CRkaa1[GT9lkE1
+Z106 IQI2<VWbX>QBb7jUNDaaSj0
+Z107 VCJb=<]PSjBV5cHabPRMHg2
+R4
+Z108 w1697142938
+Z109 8C:/Users/DLD lab 7/Desktop/New folder/onePulser.v
+Z110 FC:/Users/DLD lab 7/Desktop/New folder/onePulser.v
+L0 1
+R8
+r1
+31
+Z111 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/New folder/onePulser.v|
+R10
+Z112 none@pulser
+Z113 !s108 1700668952.157000
+Z114 !s107 C:/Users/DLD lab 7/Desktop/New folder/onePulser.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregister
+Z115 !s100 aGOMF]QjT[<L8FklR45kZ1
+Z116 IlQMDEe[[gACbM=?MWoQdQ2
+Z117 VbD9C:0UbIhUB?^a:7EYYh2
+R4
+Z118 w1608028474
+Z119 8C:/Users/DLD lab 7/Desktop/New folder/register.v
+Z120 FC:/Users/DLD lab 7/Desktop/New folder/register.v
+L0 2
+R8
+r1
+31
+Z121 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/New folder/register.v|
+R10
+Z122 !s108 1700668950.534000
+Z123 !s107 C:/Users/DLD lab 7/Desktop/New folder/register.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregister18
+Z124 !s100 bJk<aSJ4PEW6=;[N<_LZ61
+Z125 I?[K49BB@RNg`oU]4On9V]2
+Z126 V8BhoY;<lI<5_07X=bBL@m0
+R4
+Z127 w1608028438
+Z128 8C:/Users/DLD lab 7/Desktop/New folder/register18.v
+Z129 FC:/Users/DLD lab 7/Desktop/New folder/register18.v
+L0 2
+R8
+r1
+31
+Z130 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/New folder/register18.v|
+R10
+Z131 !s108 1700668950.940000
+Z132 !s107 C:/Users/DLD lab 7/Desktop/New folder/register18.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vshr16bit
+Z133 !s100 BRjZZ0;AY;2P9anYgNATE1
+Z134 IeCbGc]@zlc6`5Eb;3C82j1
+Z135 VWZQJM9MLX3<8O[?X^RZAl0
+R4
+Z136 w1700665753
+Z137 8C:/Users/DLD lab 7/Desktop/New folder/shr16bit.v
+Z138 FC:/Users/DLD lab 7/Desktop/New folder/shr16bit.v
+L0 1
+R8
+r1
+31
+Z139 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/New folder/shr16bit.v|
+R10
+Z140 !s108 1700668952.328000
+Z141 !s107 C:/Users/DLD lab 7/Desktop/New folder/shr16bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench
+!i10b 1
+!s100 bfOi<IB`;@=g@n[<AS>Pl1
+I]Fzk76>[C_Wdfi:KX=>Zn2
+Z142 VhGfW:390DM[oDMzegDH9`2
+dC:\Users\DLD lab 7\Desktop\New folder (3)\New folder
+w1701246568
+8C:/Users/DLD lab 7/Desktop/New folder (3)/New folder/testbench.v
+FC:/Users/DLD lab 7/Desktop/New folder (3)/New folder/testbench.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1701246587.025000
+!s107 C:/Users/DLD lab 7/Desktop/New folder (3)/New folder/testbench.v|
+!s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/New folder (3)/New folder/testbench.v|
+!s101 -O0
+R10
+vui_reg
+Z143 !s100 _n6V0`7R5`k[lUY:V;RKM2
+Z144 I7:M_@K^?f:Tel56L9o]J23
+Z145 VD<F:iTKeSIa=g0UK3Qm4T1
+R4
+Z146 w1700666011
+Z147 8C:/Users/DLD lab 7/Desktop/New folder/reg.v
+Z148 FC:/Users/DLD lab 7/Desktop/New folder/reg.v
+L0 1
+R8
+r1
+31
+Z149 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/New folder/reg.v|
+R10
+Z150 !s108 1700668952.625000
+Z151 !s107 C:/Users/DLD lab 7/Desktop/New folder/reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vuireg
+Z152 INZE0Yb<b;AAOeR0<I463<3
+Z153 VXKK10YPf;DeAkc;85C;ba0
+R4
+Z154 w1700665998
+R147
+R148
+L0 1
+R8
+r1
+31
+R10
+Z155 !s100 SWjj;cLUbmkC5l3odVWh_1
+Z156 !s108 1700666002.198000
+R151
+R149
+!i10b 1
+!s85 0
+!s101 -O0
+vWcontroller
+Z157 I1Van57mG]85Y0co`]V3Sz1
+Z158 VMhXk8AVUb[_ikn^Ibe6e43
+R4
+Z159 w1700669937
+Z160 8C:/Users/DLD lab 7/Desktop/New folder/Wcontroller.v
+Z161 FC:/Users/DLD lab 7/Desktop/New folder/Wcontroller.v
+L0 1
+R8
+r1
+31
+Z162 !s90 -reportprogress|300|-work|work|C:/Users/DLD lab 7/Desktop/New folder/Wcontroller.v|
+R10
+Z163 n@wcontroller
+Z164 !s100 K1]5RL`BXAT`Rm9JP5hfH2
+Z165 !s108 1700669941.074000
+Z166 !s107 C:/Users/DLD lab 7/Desktop/New folder/Wcontroller.v|
+!i10b 1
+!s85 0
+!s101 -O0

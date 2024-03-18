@@ -1,0 +1,22 @@
+module controller(input clk,rst,co, output reg phase,sign);
+  parameter[1:0] A= 2'b00,B = 2'b01,C = 2'b10, D = 2'b11;
+  reg[1:0]ns,ps;
+    always@(ps,co)
+    begin
+      ns = 2'b00;
+      {phase,sign} = 2'b0;
+      case(ps)
+          A :begin ns = co ? B : A; {phase,sign} = 2'b00; end
+          B :begin ns = co ? C : B; {phase,sign} = 2'b10; end
+          C :begin ns = co ? D : C; {phase,sign} = 2'b01; end
+          D :begin ns = co ? A : D; {phase,sign} = 2'b11; end
+    endcase  
+    end
+    always@(posedge clk , posedge rst) 
+    begin
+      if(rst)
+        ps <= 2'b0;
+      else
+        ps <= ns;
+    end  
+endmodule

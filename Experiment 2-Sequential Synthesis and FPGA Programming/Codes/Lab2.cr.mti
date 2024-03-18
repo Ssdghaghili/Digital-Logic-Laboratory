@@ -1,0 +1,71 @@
+{C:/Users/DLD lab 7/Desktop/LAB 2/Dcnt.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB 2/Dcnt.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Dcnt
+
+Top level modules:
+	Dcnt
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB 2/cnt1bit.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB 2/cnt1bit.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module cnt2bit
+
+Top level modules:
+	cnt2bit
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB 2/onePulser.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB 2/onePulser.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module onePulser
+
+Top level modules:
+	onePulser
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB 2/Dmux.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB 2/Dmux.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Dmux
+
+Top level modules:
+	Dmux
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB 2/SSD.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB 2/SSD.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module SSD
+
+Top level modules:
+	SSD
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB 2/cnt2bit.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB 2/cnt2bit.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module cnt2bit
+
+Top level modules:
+	cnt2bit
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB 2/shr2bit.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB 2/shr2bit.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module shr2bit
+
+Top level modules:
+	shr2bit
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB 2/controller.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB 2/controller.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB 2/shr4bit.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB 2/shr4bit.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module shr4bit
+
+Top level modules:
+	shr4bit
+
+} {} {}} {C:/Users/DLD lab 7/Desktop/LAB 2/testbench.v} {1 {vlog -work work {C:/Users/DLD lab 7/Desktop/LAB 2/testbench.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}}

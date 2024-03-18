@@ -1,0 +1,7 @@
+module combsh(frac,intt,ui_out,wr_data);
+  input [15:0] frac;
+  input [1:0] intt;
+  input [1:0] ui_out;
+  output [20:0] wr_data;
+  assign wr_data = (ui_out == 2'b00) ? {3'b0,intt,frac}:(ui_out == 2'b01) ? {2'b0,intt,frac,1'b0}:(ui_out == 2'b10) ? {1'b0,intt,frac,2'b0}:(ui_out == 2'b11) ? {intt,frac,3'b0};
+endmodule
